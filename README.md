@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geetanjali-lakhera&label=Profile%20views&color=0e75b6&style=flat" alt="geetanjali-lakhera" /> </p>
 
-- 🌱 I’m currently learning **GEN AI**
+- 🌱 I’m currently learning **AWS**
 
 - 📫 How to reach me **geetanjalilakhera89@gmail.com**
 
